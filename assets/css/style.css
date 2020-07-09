@@ -5706,9 +5706,9 @@ z .slider-area .hero-cap h2 {
 	line-height: 67px;
 	border-radius: 50%;
 	text-align: center;
-	background-image: -moz-linear-gradient(90deg, #e78ae9 0%, #926ef8 100%);
-	background-image: -webkit-linear-gradient(90deg, #e78ae9 0%, #926ef8 100%);
-	background-image: -ms-linear-gradient(90deg, #e78ae9 0%, #926ef8 100%)
+	background-image: -moz-linear-gradient(90deg, #fc891f 0%, #ffcc00 100%);
+	background-image: -webkit-linear-gradient(90deg, #fc891f 0%, #ffcc00 100%);
+	background-image: -ms-linear-gradient(90deg, #fc891f 0%, #ffcc00 100%)
 }
 
 .best-features-area .single-features .features-caption {
