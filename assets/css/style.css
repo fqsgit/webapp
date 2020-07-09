@@ -1,9 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800,900|Poppins:300,400,500,600,700,800,900&display=swap");
 
 @font-face {
-	font-family: 'Mosk700';
-	src: url('Mosk700.ttf');
+	font-family: 'Mosk800';
+	src: url('Mosk800.ttf');
 }
+
+@font-face {
+	font-family: 'Mosk400';
+	src: url('Mosk400.ttf');
 
 .white-bg {
 	background: #ffffff
@@ -133,7 +137,7 @@
 }
 
 body {
-	font-family: "Poppins", sans-serif;
+	font-family: "Mosk400", "Poppins", sans-serif;
 	font-weight: normal;
 	font-style: normal
 }
@@ -5538,7 +5542,7 @@ del {
 	font-size: 65px;
 	font-weight: 700;
 	color: #282221;
-	font-family: "Mosk700", sans-serif;
+	font-family: "Mosk800", "Nunito", sans-serif;
 	line-height: 1.3;
 	margin-bottom: 32px
 }
