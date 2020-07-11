@@ -1993,7 +1993,7 @@ hr {
 	position: relative;
 	border-style: solid;
 	border-width: 3px;
-	border-top-color: #de701d;
+	border-top-color: #fc891f;
 	border-bottom-color: transparent;
 	border-left-color: transparent;
 	border-right-color: transparent;
@@ -5326,7 +5326,7 @@ del {
 	content: "";
 	left: 0;
 	bottom: 20px;
-	background: #de701d;
+	background: #fc891f;
 	height: 2px;
 	width: 0;
 	transition: .3s
@@ -5371,7 +5371,7 @@ del {
 	position: absolute;
 	content: "";
 	left: -5px;
-	background: #de701d;
+	background: #fc891f;
 	height: 2px;
 	width: 0;
 	transition: .3s;
